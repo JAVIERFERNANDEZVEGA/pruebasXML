@@ -1,0 +1,12 @@
+body,html
+{height:100%;padding:0px;margin:0px;}
+.a{background-image: url("../img/espacio01.jpg");}
+.b{background-image: url("../img/espacio01.jpg")}
+.c{background-image: url("../img/espacio01.jpg");display:block !important}
+.a,.b,.c{display:inline-block;width:33.33%;height:100%;float:left;}
+.d{background-image: url("../img/luna.jpg");height:10%;width:100%;position:fixed;bottom:0px;}
+#nave{text-align:center;position:fixed;top:10%;width:100%;height:20%}
+#nave img{height:100%;}
+#cpanel{color: yellow;}
+#hidem,#showm{display:none}
+#menu {color:red }
